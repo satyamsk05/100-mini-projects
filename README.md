@@ -55,7 +55,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/qrcode_generator.git
+git clone https://github.com/sayamsk55/qrcode_generator.git
 
 # Navigate to project directory
 cd qrcode_generator
